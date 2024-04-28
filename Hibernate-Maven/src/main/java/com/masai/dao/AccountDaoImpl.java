@@ -2,6 +2,7 @@ package com.masai.dao;
 
 import com.masai.model.Account;
 
+
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
