@@ -1,4 +1,4 @@
-package com.revision.models;
+package com.revision.demo.models;
 
 public class Address {
 	

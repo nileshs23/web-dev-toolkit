@@ -1,4 +1,4 @@
-package com.revision.models;
+package com.revision.demo.models;
 
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
